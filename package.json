@@ -5,7 +5,8 @@
   "main": "build.js",
   "scripts": {
     "start": "node build.js",
-    "test": "node build.js without-preview"
+    "test": "node build.js without-preview",
+    "build": "node build.js without-preview"
   },
   "repository": {
     "type": "git",
