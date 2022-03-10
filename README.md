@@ -20,12 +20,11 @@ Each status code lives in a Markdown file at [contents/codes](contents/codes), t
 
 ## Previously
 
-Previously the project was known as httpstatuses.com & httpstatus.es but [as per this GitHub issue][7]. This fork has no changes to the original apart from the name/domain/repo change.
+Previously the project was known as httpstatuses.com & httpstatus.es. This fork has no changes to the original apart from the name/domain/repo change.
 
 [1]: https://github.com/mrmartineau/httpstatuses/issues
 [2]: https://daringfireball.net/projects/markdown/syntax#link
 [3]: http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
 [4]: http://www.slate.com/articles/technology/technology/2011/01/space_invaders.html
 [5]: https://httpstatuses.zander.wtf
-[7]: https://github.com/citricsquid/httpstatuses/issues/29
 [8]: http://localhost:4887
